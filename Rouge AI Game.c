@@ -4,7 +4,7 @@
 int main()
 {
 	int i, j, flag, nmov;
-	int input, storey = 30;
+	int input, storey = 32;
 	int level[storey + 1], moves[] = {1, 3, 4};
 
 	nmov = sizeof(moves) / sizeof(int);
